@@ -1,0 +1,43 @@
+*{
+    background-color: aliceblue;
+}
+h2{
+    text-align: center;
+    margin: 50px;
+    font-size: 35px;
+}
+.login-container form{
+    height: 40vh;
+    /* background-color: white; */
+    width: 50%;
+    margin: 2px 200px;
+}
+input{
+    height: 6vh;
+    width: 72%;
+    margin: 18px 210px;
+    background-color: white;
+    padding: 2px 16px;
+    border: none;
+    color: black;
+    border-radius: 10px;
+}
+input:hover{
+    border: 1px solid cadetblue;
+
+}
+
+#btn{
+    height: 7vh;
+    width: 21%;
+    border-radius: 16px;
+    border: none;
+    background-color: cadetblue;
+    margin: 33px 377px;
+    font-size: 17px;
+}
+
+a{
+    margin: 2px 44%;
+    font-size: 17px;
+}

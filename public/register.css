@@ -1,0 +1,41 @@
+/*  */
+
+    *{
+        background-color: bisque;
+    }
+    h2{
+        text-align: center;
+        margin: 50px;
+        font-size: 35px;
+    }
+   
+    input{
+        height: 6vh;
+        width: 48%;
+        margin: 18px 326px;
+        background-color: white;
+        padding: 2px 16px;
+        border: none;
+        color: black;
+        border-radius: 10px;
+    }
+    input:hover{
+        border: 1px solid rgb(160, 95, 95);
+    
+    }
+    
+    #btn{
+        height: 7vh;
+        width: 14%;
+        border-radius: 16px;
+        border: none;
+        background-color: brown;
+        margin: 33px 550px;
+        font-size: 17px;
+        color: white;
+    }
+    
+    a{
+        margin: 2px 44%;
+        font-size: 17px;
+    }
